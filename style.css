@@ -1,0 +1,230 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-banner {
+    background-image: url(Images/banner1.jpg);
+    color: white;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    padding-top: 10%;
+    height: 280px;
+    width: 100%;
+
+}
+
+.top-banner h1 {
+    font-size: 30px;
+}
+
+.donate-button {
+    text-decoration: none;
+    background-color: rgb(233, 112, 91);
+    color: white;
+    padding: 10px 10px;
+    border-radius: 7px;
+
+}
+
+.middle-text {
+    color: rgb(215, 210, 210);
+}
+
+
+.Donate-bar {
+    text-align: center;
+}
+
+.Donate-bar h1 {
+    font-size: 35px;
+}
+
+
+.amount-bar {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+
+}
+
+.amount {
+    background-color: rgb(244, 239, 239);
+    margin: 10px;
+    padding: 20px 20px;
+    border-radius: 5px;
+    color: gray;
+
+}
+
+#donate {
+    color: rgb(249, 53, 18);
+    border: solid 2px rgb(239, 158, 146);
+    background-color: rgb(251, 207, 200);
+}
+
+.donation-amount-bar {
+    text-align: center;
+    padding-top: 18px;
+
+}
+
+.other-amount {
+    color: rgb(170, 166, 166);
+}
+
+#hr-line {
+    color: rgb(170, 166, 166);
+    width: 50%;
+
+
+}
+
+.donate-now {
+    text-decoration: none;
+    background-color: rgb(239, 37, 37);
+    color: white;
+    padding: 7px 7px;
+    border-radius: 7px;
+
+}
+
+.donation-bar {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.donate-today {
+    padding-top: 70px;
+}
+
+.donate-plan-bar {
+    padding-top: 70px;
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.donate-plan h1 {
+    font-size: 35px;
+}
+
+.food-family {
+    background-color: rgb(235, 246, 246);
+    width: 23%;
+    margin: 1%;
+    padding-top: 32px;
+    padding-left: 23px;
+    padding-bottom: 22px;
+    padding-right: 10px;
+}
+
+.shelter-family {
+    background-color: rgb(255, 231, 236);
+    width: 23%;
+    margin: 1%;
+    padding-top: 32px;
+    padding-left: 23px;
+    padding-bottom: 22px;
+    padding-right: 10px;
+}
+
+.education-child {
+    background-color: rgb(248, 248, 215);
+    width: 23%;
+    margin: 1%;
+    padding-top: 32px;
+    padding-left: 23px;
+    padding-bottom: 22px;
+    padding-right: 10px;
+}
+
+.main-container {
+    display: flex;
+    padding-left: 213px;
+}
+
+.last-update {
+    padding-top: 70px;
+    text-align: center;
+    padding-bottom: 40px;
+
+}
+
+.last-update-bar {
+    padding-bottom: 100px;
+}
+
+.last-update h1 {
+    font-size: 35px;
+}
+
+.subscribe-container {
+    height: 160px;
+    width: 600px;
+    background-color: rgb(246, 246, 231);
+    text-align: center;
+    line-height: 180px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+
+.input-bar {
+    margin: 10px;
+    padding: 15px 30px;
+    color: rgb(188, 172, 172);
+    font-size: px;
+
+}
+
+.subscribe-button {
+    border: 0;
+    background-color: rgba(228, 57, 27, 0.804);
+    padding: 17px 30px;
+    margin: -17px;
+    color: white;
+
+}
+
+.footer-bar {
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 110px;
+    padding-top: 12px;
+    padding-bottom: 7px;
+}
+
+.image-bar1 {
+    height: 220px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.image-bar2 {
+    height: 220px;
+    margin: 30px;
+    padding-top: 10px;
+
+}
+
+.parent-container {
+    display: flex;
+    margin-left: 315px;
+    padding-top: 80px;
+}
+
+.description {
+    text-align: center;
+    padding-left: 35px;
+}
+
+.description h1 {
+    font-size: 35px;
+}
